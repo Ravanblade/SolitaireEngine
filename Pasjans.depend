@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1430476759 source:c:\users\szymon\desktop\pasjans\main.cpp
+	"talia.h"
+	"plansza.h"
+	"LogikaGry.h"
+	<conio.h>
+
+1430476715 c:\users\szymon\desktop\pasjans\talia.h
+	<windows.h>
+	<iostream>
+	<string>
+	<conio.h>
+	<time.h>
+
+1430479567 source:c:\users\szymon\desktop\pasjans\talia.cpp
+	"talia.h"
+
+1430437115 c:\users\szymon\desktop\pasjans\include\plansza.h
+	<windows.h>
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<time.h>
+	<sstream>
+	<vector>
+
+1430437115 source:c:\users\szymon\desktop\pasjans\src\plansza.cpp
+	"Plansza.h"
+
+1430480455 c:\users\szymon\desktop\pasjans\plansza.h
+	"LogikaGry.h"
+	<windows.h>
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<time.h>
+	<sstream>
+	<vector>
+
+1430484106 source:c:\users\szymon\desktop\pasjans\logikagry.cpp
+	"LogikaGry.h"
+
+1430481618 c:\users\szymon\desktop\pasjans\logikagry.h
+	"talia.h"
+
+1430484276 source:c:\users\szymon\desktop\pasjans\plansza.cpp
+	"Plansza.h"
+
+1430520716 source:d:\syf\pasjans\pasjans\main.cpp
+	"talia.h"
+	"plansza.h"
+	"LogikaGry.h"
+	<conio.h>
+
+1430476715 d:\syf\pasjans\pasjans\talia.h
+	<windows.h>
+	<iostream>
+	<string>
+	<conio.h>
+	<time.h>
+
+1430515407 d:\syf\pasjans\pasjans\plansza.h
+	"LogikaGry.h"
+	<windows.h>
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<time.h>
+	<sstream>
+	<vector>
+
+1430520697 d:\syf\pasjans\pasjans\logikagry.h
+	"talia.h"
+
+1430519346 source:d:\syf\pasjans\pasjans\plansza.cpp
+	"Plansza.h"
+
+1430519499 source:d:\syf\pasjans\pasjans\talia.cpp
+	"talia.h"
+
+1430520632 source:d:\syf\pasjans\pasjans\logikagry.cpp
+	"LogikaGry.h"
+
+1430586845 source:c:\users\szymon\desktop\pasjans25\pasjans\logikagry.cpp
+	"LogikaGry.h"
+
+1430520698 c:\users\szymon\desktop\pasjans25\pasjans\logikagry.h
+	"talia.h"
+
+1430476716 c:\users\szymon\desktop\pasjans25\pasjans\talia.h
+	<windows.h>
+	<iostream>
+	<string>
+	<conio.h>
+	<time.h>
+
+1430520718 source:c:\users\szymon\desktop\pasjans25\pasjans\main.cpp
+	"talia.h"
+	"plansza.h"
+	"LogikaGry.h"
+	<conio.h>
+
+1430515408 c:\users\szymon\desktop\pasjans25\pasjans\plansza.h
+	"LogikaGry.h"
+	<windows.h>
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<time.h>
+	<sstream>
+	<vector>
+
+1430519500 source:c:\users\szymon\desktop\pasjans25\pasjans\talia.cpp
+	"talia.h"
+
+1430584530 source:c:\users\szymon\desktop\pasjans25\pasjans\plansza.cpp
+	"Plansza.h"
+
